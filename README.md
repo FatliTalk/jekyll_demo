@@ -8,4 +8,4 @@
 
 <br>
 
-![git-jekyll](/Users/fatli/Desktop/git-jekyll.png)
+![git-jekyll](./images/git-jekyll.png)
